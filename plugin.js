@@ -4,7 +4,7 @@
     "subtitle" : "www.roadworks.com",
     
     "backButton" : true,
-    "enableGPS" : false,
+    "enableGPS" : true,
     "zoomControl" : false,
     "screenLockRot" : false,
     "reload" : true,
